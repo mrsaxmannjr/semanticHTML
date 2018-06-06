@@ -1,10 +1,10 @@
 # Semantic HTML
 ## Learning Objectives
-- [X] What is it/Why using semantic HTML is a best practice in web development
-- [X] W3C
+- [X] Define what is it/why using semantic HTML is a best practice in web development
+- [X] Define what W3C is
+- [X] Identify and define at least 4 semantic HTML tags
 - [X] npm install -g lite-server
 - [X] fork/clone [Semantic HTML](https://github.com/gSchool/semantic-html-exercise)
-- [X] Identify and define at least 4 semantic HTML tags
 
 ## Resources
 - [W3C Validation](https://validator.w3.org/#validate_by_input)
